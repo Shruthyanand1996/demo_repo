@@ -1,1 +1,1 @@
-Hello this is A demo repo, also my foirst repo
+Hello this is A demo repo, also my first repo
